@@ -1,0 +1,18 @@
+# Positions:
+# Corners:
+# BackTopLeft: 0
+# BackTopRight: 1
+# FrontTopLeft: 2
+# FrontTopRight: 3
+# BackBottomLeft: 4
+# BackBottomRight: 5
+# FrontBottomLeft: 6
+# FrontBottomRight: 7
+
+# Edges:
+# TopLeft: 8             #MiddleFrontLeft: 14
+# TopBack: 9             #MiddleFrontRight: 15
+# TopRight: 10           #BottomLeft: 16
+# TopFront: 11           #BottomBack: 17
+# MiddleBackLeft: 12     #BottomRight: 18
+# MiddleBackRight: 13    #BottomFront: 19
